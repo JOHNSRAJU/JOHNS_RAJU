@@ -24,11 +24,4 @@ cover: $assets.files.assets.ape-1.jpg
 
 I'm John's Raju . Famous Web Designer of the world. I'm a computer science student 
 
--- footer-3.footer-3:
-logo: $assets.files.images.trizwit.jpeg
-facebook: $assets.files.images.Footer.facebook.svg
-twitter: $assets.files.images.Footer.twitter.svg
-instagram: $assets.files.images.Footer.instagram.svg
-linkedin: $assets.files.images.Footer.linkedin.svg
-logo-test: Trizwit
 -- end: lib.page
