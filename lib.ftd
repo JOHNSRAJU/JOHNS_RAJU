@@ -1,4 +1,3 @@
--- import: sarvom.github.io/holy-angel-typography 
 -- import: shaheen-senpai.github.io/fastn-cs-tail
 
 
@@ -20,7 +19,7 @@ children c:
 
 -- ftd.column:
 width: fill-container
-types: $holy-angel-typography.types
+;;types: $holy-angel-typography.types
 colors: $fastn-cs-tail.main
 background.linear-gradient: $lg
 
